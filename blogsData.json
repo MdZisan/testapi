@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "author_name": "Mr. Raju",
+    "blog_title": "Props vs State",
+    "hashtag":"#beginners #programming",
+    "cover_img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1680209890~exp=1680210490~hmac=82d0f22c8f713e0015fada4f09c3aacf7cc322e10e41c757d89080c10e318129",
+    "author_img": "https://images.unsplash.com/photo-1595152452543-e5fc28ebc2b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "read_time": 5,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 2,
+    "author_name": "Mrs. Setara",
+    "blog_title": "How does useState work",
+    "hashtag":"#beginners #programming",
+    "cover_img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1680210431~exp=1680211031~hmac=833d563ebe7187936e279a7ad930fa88f4da6886088078a58a728d74c6280706",
+    "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "read_time": 10,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 3,
+    "author_name": "Mina Mostofa",
+    "blog_title": "Purpose of useEffect other than fetching data",
+    "hashtag":"#beginners #programming",
+    "cover_img": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=740&t=st=1680210540~exp=1680211140~hmac=e238c544ba7ff1bc60b2b1d84c7ee317e7fb97bbeed150e3eb99d9de4062d185",
+    "author_img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "read_time": 12,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 4,
+    "author_name": "MD Zisan",
+    "blog_title": "How Does React work?",
+    "hashtag":"#beginners #programming",
+    "cover_img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901779.jpg?w=740&t=st=1680210659~exp=1680211259~hmac=2e49df562071086c38c4ffba34900465f0a6438bdffc88d9fa8011b32b55108e",
+    "author_img": "https://media1.popsugar-assets.com/files/thumbor/efbuTJIaNqy0EJ-PRJTYI5wVxZE/8x154:1993x2139/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/02/24/876/n/1922398/46fadbc65e542bc2f40127.90581595_/i/Zayn-Malik.jpg",
+    "read_time": 15,
+    "publish_date": "Mar 14 (4 Days ago)"
+  }
+]
